@@ -1,0 +1,31 @@
+.student {
+    display: inline-block;
+    margin: 0 10px;
+    min-width: 25%;
+    padding: 5px 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.student__title {
+    color: tomato;
+}
+
+.student__birthplace {
+    color: #0D355A;
+}
+
+.bordered {
+    border: 1px  groove black;
+}
+
+.studentRow {
+    padding: 10px 0;
+}
+
+.male {
+    border: 2px solid goldenrod
+}
+
+.female {
+    border: 2px solid purple
+}
